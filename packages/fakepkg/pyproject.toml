@@ -1,0 +1,8 @@
+[project]
+name = "fakepkg"
+version = "0.0.1"
+description = "stub package for PoC"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
